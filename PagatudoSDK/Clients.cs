@@ -4,8 +4,8 @@
     {
         public readonly static Client Client1 = new Client
         {
-            Id = "pagatudo",
-            Secret = "pagatudo",
+            Id = "xxxxx",
+            Secret = "xxxxx",
             RedirectUrl = Paths.AuthorizeCodeCallBackPath
         };
     }
